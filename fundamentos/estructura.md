@@ -19,7 +19,8 @@ Generalmente incluye el atributo `lang`, que indica el idioma del contenido.
 
 Ejemplo:
 ```html
-<html lang="es"> ```
+<html lang="es"> 
+```
 
 
 ---

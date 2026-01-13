@@ -41,7 +41,9 @@ El elemento `<title>` especifica el **título de la página HTML**.
 Este título se muestra en la pestaña del navegador.
 
 Ejemplo:
-``` <title>Mi primera página</title> ```
+```html
+<title>Mi primera página</title> 
+```
 
 ---
 

@@ -18,8 +18,8 @@ Todo el contenido del documento debe estar dentro de esta etiqueta.
 Generalmente incluye el atributo `lang`, que indica el idioma del contenido.
 
 Ejemplo:
-```html
-<html lang="es">´´´
+``` html
+<html lang="es"> ```
 
 
 ---

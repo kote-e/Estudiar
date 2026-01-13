@@ -18,7 +18,7 @@ Todo el contenido del documento debe estar dentro de esta etiqueta.
 Generalmente incluye el atributo `lang`, que indica el idioma del contenido.
 
 Ejemplo:
-``` html
+```html
 <html lang="es"> ```
 
 
@@ -40,7 +40,7 @@ El elemento `<title>` especifica el **título de la página HTML**.
 Este título se muestra en la pestaña del navegador.
 
 Ejemplo:
-``` <title>Mi primera página</title> ´´´
+``` <title>Mi primera página</title> ```
 
 ---
 
